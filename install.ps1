@@ -1,3 +1,3 @@
-$source = 'https://forarmstorageaccount01.blob.core.windows.net/encase/EnCase%20(x64)%2021.3.exe?sp=r&st=2021-06-16T14:33:27Z&se=2021-06-30T22:33:27Z&spr=https&sv=2020-02-10&sr=b&sig=MIOW%2BSyR7lMyM2RTO%2B69o6Boi3fzHxNTHmhSw91kmhk%3D'
+$source = 'https://forarmstorageaccount01.blob.core.windows.net/encase/npp.7.9.1.Installer.exe?sp=r&st=2021-06-16T16:52:48Z&se=2021-06-17T00:52:48Z&spr=https&sv=2020-02-10&sr=b&sig=Ev1ZYpHUzY0zbxRiGQeeYcv015vQZC9VXgYm4PpVI8U%3D'
 $destination = 'C:\\encase.exe'
 Invoke-WebRequest -Uri $source -OutFile $destination
