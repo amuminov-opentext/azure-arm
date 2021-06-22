@@ -1,1 +1,1 @@
-curl https://forarmstorageaccount01.blob.core.windows.net/encase/npp.7.9.1.Installer.exe?sp=r&st=2021-06-22T14:52:16Z&se=2021-06-22T22:52:16Z&spr=https&sv=2020-02-10&sr=b&sig=3smRKcpKCD9fSSCArgT6AN3FSJPZ6KERtMMYNHQEG6A%3D -O npp.exe
+curl https://forarmstorageaccount01.blob.core.windows.net/encase/npp.7.9.1.Installer.exe?sp=r&st=2021-06-22T14:52:16Z&se=2021-06-22T22:52:16Z&spr=https&sv=2020-02-10&sr=b&sig=3smRKcpKCD9fSSCArgT6AN3FSJPZ6KERtMMYNHQEG6A%3D -O C:\\npp.exe
